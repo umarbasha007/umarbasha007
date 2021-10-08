@@ -2,6 +2,7 @@
 
 - 📫 How to reach me: umarbasha007@gmail.com
 - 🔭 My website - www.umarbasha.com
+- 💬 My LinkedIn - www.linkedin.com/in/umarbasha007
 
 <!--
 **umarbasha007/umarbasha007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
