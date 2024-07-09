@@ -4,6 +4,7 @@
 - 🔭 My website - www.umarbasha.dev
 - 💬 My LinkedIn - www.linkedin.com/in/umarbasha007
 
+- 🌱 I’m currently learning - Web 3, HFT, System Designs
 <!--
 **umarbasha007/umarbasha007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
